@@ -1,0 +1,30 @@
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe.config
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\bin\Debug\ExampleApp.pdb
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csprojAssemblyReference.cache
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\MainWindow.g.cs
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\App.g.cs
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp_MarkupCompile.cache
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp_MarkupCompile.lref
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\MainWindow.baml
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.g.resources
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.Properties.Resources.resources
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.GenerateResource.cache
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.CoreCompileInputs.cache
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
+c:\users\yibdn\source\repos\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe.config
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\bin\Debug\ExampleApp.pdb
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.AssemblyReference.cache
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\MainWindow.g.cs
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\App.g.cs
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp_MarkupCompile.cache
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp_MarkupCompile.lref
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\MainWindow.baml
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.g.resources
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.Properties.Resources.resources
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.GenerateResource.cache
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csproj.CoreCompileInputs.cache
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
+D:\C#\[megasliv.biz] [itProger] Изучение C# от новичка до профи (2019)\#2 - Создание программ\#6 - Текстовый редактор. Завершение\file\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
